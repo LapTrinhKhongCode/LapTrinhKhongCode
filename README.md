@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://static.wikia.nocookie.net/bungostraydogs/images/8/81/The_Matchless_Poet_%28Text%29.gif/revision/latest?cb=20201021133640"  />
 
 ###
 
