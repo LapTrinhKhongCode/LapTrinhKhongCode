@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"  />
+<img align="right" height="450" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"  />
 
 ###
 
