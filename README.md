@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Duc Anh and I'm a Web Developer, from DUT !!!</h2>
+<h2 align="left">Hi 👋! My name is Duc Anh and I'm a Developer, from DUT !!!</h2>
 
 ###
 
