@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is Duc Anh and I'm a Developer, from DUT !!!</h2>
+<h2 align="left">Hi 🛳! Duc Anh from  Da Nang University of Science and Technology !!! ⛴ </h2> 
 
 ###
-
+<!--   Day la mot comment hop le 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LapTrinhKhongCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LapTrinhKhongCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+-->
 ###
 
-<img align="right" height="450" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"  />
+<img align="right" height="450" src="https://github.com/LapTrinhKhongCode/CNPM_BaiTapGit/blob/master/ramrem.gif"  />
 
 ###
 
